@@ -35,6 +35,7 @@ Text('Aliya',
 style: TextStyle(
   color: Colors.white,
   fontSize: 40,
+    fontFamily: 'Yellowtail-Regular'
   ),),
 Text(userNumber, style: TextStyle(color: Colors.white,
               fontSize: 50, fontWeight: FontWeight.bold

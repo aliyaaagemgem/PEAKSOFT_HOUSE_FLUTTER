@@ -33,6 +33,7 @@ Text('Aliya',
 style: TextStyle(
   color: Colors.white,
   fontSize: 40,
+  fontFamily: 'Yellowtail-Regular'
   ),),
  
   Text('Flutter Developer', 
