@@ -1,5 +1,3 @@
-import 'package:collections_1/collections_1.dart' as collections_1;
-
 void main() {
   // int a = 1;
   // int b = 2;
@@ -25,9 +23,9 @@ void main() {
 // print(setName);
 
 // Map
-Map mapName = {
-  'name': 'Asan', 
-  'animal': 'Cow',
-  'color': 'White'};
-  print(mapName['color']);
+// Map mapName = {
+//   'name': 'Asan', 
+//   'animal': 'Cow',
+//   'color': 'White'};
+//   print(mapName['color']);
  }
